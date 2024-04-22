@@ -69,6 +69,20 @@ The VR experience guides users through five scenes:
     * Tracked Device Graphic Raycaster
     * XR Grab Interactable
 
+## Output (https://github.com/31Sanskrati/Virtual-Reality-Project/tree/main/Screenshots)
+1. Project Setup - ![Screenshot 2024-04-23 002322](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/4ae66712-5807-4e1a-a0b3-f5c894be4e4e)
+2. XR Rig Setup - ![Screenshot 2024-04-23 002258](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/f9390114-5cde-4013-98b1-7ad86003b53e)
+3. Scene 1 - ![Screenshot 2023-11-11 114135](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/f95349a6-6c2e-42d5-a3e3-161c87ab1698)
+4. Scene 2 -![Screenshot 2024-04-23 001943](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/d62f5081-8f5d-45ae-9547-fa2b3b9e982c)
+
+5. Scene 3 - ![Screenshot 2024-04-23 002055](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/c628993f-00c1-4561-bbf4-b9e8d90d9a71)
+
+6. Scene 4 - ![Screenshot 2024-04-23 002149](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/eaf17b5a-2b6e-4e06-8861-6557ef266419)
+
+7. Scene 5 - ![Screenshot 2024-04-23 002210](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/5cc599bf-f67e-43c1-b13a-9b3e01c36cd0)
+
+*See the Screenshots directory for more*
+
 ##  Contributing
 
 We welcome contributions to this project! Please see the CONTRIBUTING.md file for details.

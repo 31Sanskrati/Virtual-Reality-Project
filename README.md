@@ -1,8 +1,18 @@
-# Alcohol Addiction and Its Effect on Health - VR Experience
+# Intoxicated: A VR Journey Through Alcohol Addiction
 
-This project is a VR experience developed in Unity that allows users to explore the gradual progression of alcohol consumption, following the journey of a character transitioning from casual drinking to addiction. 
+Intoxicated is an immersive VR experience developed in Unity that delves into the psychological effects of alcohol and its progression from casual use to addiction. It follows Alex, a young individual, on a journey that sheds light on the complexities of alcohol dependence and empowers users with knowledge about recovery methods.
 
-The goal is to use VR to educate users on the complexities surrounding alcohol consumption and its impact on health, promoting awareness and encouraging proactive steps towards recovery.
+**Experience the Ripple Effects:**
+
+* Witness the subtle changes in Alex's life and relationships as alcohol consumption increases.
+* Feel the psychological impact through immersive environments and soundscapes.
+* Explore diverse healing paths to empower yourself or someone you care about.
+
+**Become Informed:**
+
+* Gain a deeper understanding of the psychological aspects of alcohol addiction.
+* Recognize the warning signs and potential consequences of problematic drinking.
+* Discover resources and support systems available for recovery.
 
 ##  Getting Started
 
@@ -11,65 +21,27 @@ Here is the flow diagram to explain how different scenes interact with each othe
 ![Screenshot 2024-04-10 003601](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/c1162b10-a5ab-44c5-8526-c421cc3edd8d)
 
 
-### Prerequisites
+### Technology Used
 
 * Unity (https://unity.com/download)
 * Oculus Quest 2 (https://www.meta.com/quest/products/quest-2/)
-
-###  Installation
-
-1. Clone this repository.
-2. Open the project in Unity.
-3. Ensure you have the Oculus Quest 2 SDK installed in Unity (https://developer.oculus.com/documentation/)
-4. Connect your Oculus Quest 2 to your computer.
-5. Run the project in Unity.
+* Oculus Quest 2 SDK (https://developer.oculus.com/downloads/unity/)
 
 ##  Project Overview
 
 The VR experience guides users through five scenes:
 
-* **Scene 1: Introduction** - Introduces the project and VR controls.
-* **Scene 2: The Beginning** - Introduces "Alex", a casual drinker, to understand the journey of alcohol abuse.
-* **Scene 3: Regular Consumption & Problematic Signs** - Understand the impact and challenges of alcohol dependency.
-* **Scene 4: Seeking Help and Road to Recovery** - Educational insights, encouraging awareness and recovery pathways.
-* **Scene 5: Conclusion - Reflections and Learnings** - Reflect on the consequences of actions and the journey of Alex.
+* **Scene 1: Introduction** -  Immerse yourself in VR and learn basic controls.
+* **Scene 2: The Beginning** - Meet Alex and witness their initial, seemingly harmless interaction with alcohol.
+* **Scene 3: Regular Consumption & Problematic Signs** - Observe how casual drinking transforms into dependence, impacting Alex's thoughts, behavior, and relationships.
+* **Scene 4: Seeking Help and Road to Recovery** - Explore various recovery options like support groups, therapy, and self-care strategies.
+* **Scene 5: Conclusion - Reflections and Learnings** - Witness the outcome of Alex's journey and contemplate the importance of informed choices.
 
-##  Technical Details
 
-* **Game Engine:** Unity
-* **VR Headset:** Oculus Quest 2
-* **Assets:**
-    * HQ Acoustic system
-    * BarProbs
-    * Apartment Kit
-    * Morgue Room PBR
-    * World Materials
-    * Realistic Tree
-    * Hospital Bed
-    * Wheelchair
-    * First Aid Set
-    * Park Chair
-    * Stone Fence
-    * Street Lamps
-* **Scripts and Algorithms:**
-    * XR Interaction Manager
-    * Input Action Manager
-    * XR Origin
-    * XR Rig
-    * Locomotion System
-    * Snap Turn Provider
-    * XR Controller (Action Based)
-    * XR Ray Interactor
-    * XR Interactor Line Visual
-    * Main Camera
-    * Tracked Pose Driver
-    * Universal Additional Camera Data
-    * Teleportation Provider
-    * Teleportation Area
-    * Tracked Device Graphic Raycaster
-    * XR Grab Interactable
+## Project Videos 
+You can view some video demonstrations of the VR experience in action here: [Link to Google Drive](https://drive.google.com/drive/folders/10E9vOkptI4Xf7jGu5N2ag-xuK6mKj2TB)
 
-## Output (https://github.com/31Sanskrati/Virtual-Reality-Project/tree/main/Screenshots)
+## Screenshots (https://github.com/31Sanskrati/Virtual-Reality-Project/tree/main/Screenshots)
 1. Project Setup - ![Screenshot 2024-04-23 002322](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/4ae66712-5807-4e1a-a0b3-f5c894be4e4e)
 2. XR Rig Setup - ![Screenshot 2024-04-23 002258](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/f9390114-5cde-4013-98b1-7ad86003b53e)
 3. Scene 1 - ![Screenshot 2023-11-11 114135](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/f95349a6-6c2e-42d5-a3e3-161c87ab1698)
@@ -85,7 +57,7 @@ The VR experience guides users through five scenes:
 
 ##  Contributing
 
-We welcome contributions to this project! Please see the CONTRIBUTING.md file for details.
+Let us know your thoughts! We welcome feedback and contributions to this project. Feel free to open an issue or pull request to share your ideas.
 
 ##  License
 

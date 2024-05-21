@@ -41,7 +41,7 @@ The VR experience guides users through five scenes:
 ## Project Videos 
 You can view some video demonstrations of the VR experience in action here: [Link to Google Drive](https://drive.google.com/drive/folders/10E9vOkptI4Xf7jGu5N2ag-xuK6mKj2TB)
 
-## Screenshots (https://github.com/31Sanskrati/Virtual-Reality-Project/tree/main/Screenshots)
+## [Screenshots] (https://github.com/31Sanskrati/Virtual-Reality-Project/tree/main/Screenshots)
 1. Project Setup - ![Screenshot 2024-04-23 002322](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/4ae66712-5807-4e1a-a0b3-f5c894be4e4e)
 2. XR Rig Setup - ![Screenshot 2024-04-23 002258](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/f9390114-5cde-4013-98b1-7ad86003b53e)
 3. Scene 1 - ![Screenshot 2023-11-11 114135](https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/f95349a6-6c2e-42d5-a3e3-161c87ab1698)

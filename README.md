@@ -7,7 +7,7 @@
 <h3 align="center">
 	<a href="https://drive.google.com/drive/folders/10E9vOkptI4Xf7jGu5N2ag-xuK6mKj2TB">Complete Demonstration</a>
 	<span> | </span>
-	<a href="https://github.com/31Sanskrati/Virtual-Reality-Project">Augmented Reality Project</a>
+	<a href="https://github.com/31Sanskrati/Health-Harbor-AR-app">Augmented Reality Project</a>
 </h3>
 
 https://github.com/31Sanskrati/Virtual-Reality-Project/assets/78686887/3970cb73-aa7f-47f1-8336-35d3c54d4256
